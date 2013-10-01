@@ -1,4 +1,3 @@
-Very simple Octopress theme.
+18bytes Octopress theme based on https://github.com/ivanjovanovic/ji-octopress-theme
 
-Created to be used for my personal site http://ivanjovanovic.com
 
